@@ -1,10 +1,10 @@
 # Fuel Price Analytics: End-to-End Data Portfolio Project
 
 ## 📊 Project Overview
-This project provides a comprehensive analysis of historical fuel prices (Petrol & Diesel) across various Indian states. Using a combination of Python, SQL and Streamlit, it explores price trends, regional disparities and the impact of crude oil fluctuations on consumer pricing.
+This project provides a comprehensive analysis of historical fuel prices (Petrol & Diesel) across various Indian states. Using a combination of Python, SQL, and Streamlit, it explores price trends, regional disparities, and the impact of crude oil fluctuations on consumer pricing.
 
 ### 🚀 Key Features
-- **Interactive Dashboard**: Real-time filtering by state, fuel type and date range.
+- **Interactive Dashboard**: Real-time filtering by state, fuel type, and date range.
 - **Trend Analysis**: Visual insights into historical price spikes and stability periods.
 - **SQL Analytics**: Advanced database queries including window functions and moving averages.
 - **Automated Data Pipeline**: Script to enrich base crude data into a multi-dimensional dataset.
