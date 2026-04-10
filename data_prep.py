@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # Define paths
-INPUT_FILE = '/Users/arpitatiwari/Desktop/fuel_price.csv'
-OUTPUT_FILE = '/Users/arpitatiwari/.gemini/antigravity/scratch/fuel_price_analysis/fuel_data_enriched.csv'
+INPUT_FILE = 'fuel_price.csv'
+OUTPUT_FILE = 'fuel_data_enriched.csv'
 
 def enrich_data():
     if not os.path.exists(INPUT_FILE):
