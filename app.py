@@ -18,9 +18,13 @@ st.markdown("""
         padding: 15px;
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        color: #1a1a1a !important;
     }
-    .css-1r6slb0 {
-        padding: 2rem 1rem;
+    [data-testid="stMetricValue"] {
+        color: #1a1a1a !important;
+    }
+    [data-testid="stMetricLabel"] {
+        color: #555555 !important;
     }
 </style>
 """, unsafe_allow_html=True)
